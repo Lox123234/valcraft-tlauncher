@@ -1,0 +1,31 @@
+# Local state, personal paths and game saves (NEVER commit)
+/runtime/
+/backup-before-valcraft/
+/installed-tlauncher.json
+/valcraft.local.json
+/README-RU.txt
+
+# Game data and player information
+**/saves/
+**/worlds/
+**/playerdata/
+**/screenshots/
+**/usercache.json
+**/logs/
+**/crash-reports/
+**/.fabric/
+**/.minecraft/
+**/options.txt
+**/servers.dat
+
+# Downloads, build products and operating-system files
+*.log
+*.tmp
+*.part
+*.bak
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+/dist/
+/build/

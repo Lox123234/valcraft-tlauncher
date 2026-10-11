@@ -1,0 +1,11 @@
+# Consistent line endings for GitHub and Windows users
+*.md text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.ps1 text eol=crlf
+*.cmd text eol=crlf
+*.fx text eol=lf
+*.dll binary
+*.jar binary
+*.addon64 binary
